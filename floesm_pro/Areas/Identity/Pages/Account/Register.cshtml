@@ -1,0 +1,96 @@
+﻿@page
+@model RegisterModel
+@{
+    ViewData["Title"] = "Register";
+    Layout = null;
+}
+
+<head>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+
+    <!-- jQuery library -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+    <!-- Popper JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+
+    <!-- Latest compiled JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <link href="~/css/login.css" rel="stylesheet" />
+</head>
+
+<div class="row mx-0 h-100">
+    <div class="col-xl-5 col-lg-6  p-0 h-100">
+        <section class="login-left-section">
+            <div class="login-text pb-5">
+                <h3>Create new account</h3>
+            </div>
+            <form asp-route-returnUrl="@Model.ReturnUrl" method="post">
+             
+                @*<div asp-validation-summary="All" class="text-danger"></div>*@
+                <div class="form-group">
+                    <label asp-for="Input.Name"></label>
+                    <input asp-for="Input.Name" class="login-input form-control" />
+                    <span asp-validation-for="Input.Name" class="text-danger danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Input.Email"></label>
+                    <input asp-for="Input.Email" class="login-input form-control" />
+                    <span asp-validation-for="Input.Email" class="text-danger danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Input.Password"></label>
+                    <input asp-for="Input.Password" class="login-input form-control" />
+                    <span asp-validation-for="Input.Password" class="text-danger danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Input.ConfirmPassword"></label>
+                    <input asp-for="Input.ConfirmPassword" class="login-input form-control" />
+                    <span asp-validation-for="Input.ConfirmPassword" class="text-danger danger"></span>
+                </div>
+                <button type="submit" class="btn btn-primary login-btn">Register</button>
+            </form>
+        </section>
+      
+    </div>
+    <div class="col-xl-7 col-lg-6 h-100 p-4">
+        <div>
+            <div>
+                <img class="w-100 h-100" src="https://image.freepik.com/free-photo/mock-up-wooden-photo-frame-wooden-shelf-with-decoration-3d-rendering_41470-3614.jpg" />
+            </div>
+        </div>
+        @*<section>
+            <h4>Use another service to register.</h4>
+            <hr />
+            @{
+                if ((Model.ExternalLogins?.Count ?? 0) == 0)
+                {
+                    <div>
+                        <p>
+                            There are no external authentication services configured. See <a href="https://go.microsoft.com/fwlink/?LinkID=532715">this article</a>
+                            for details on setting up this ASP.NET application to support logging in via external services.
+                        </p>
+                    </div>
+                }
+                else
+                {
+                    <form id="external-account" asp-page="./ExternalLogin" asp-route-returnUrl="@Model.ReturnUrl" method="post" class="form-horizontal">
+                        <div>
+                            <p>
+                                @foreach (var provider in Model.ExternalLogins)
+                                {
+                                    <button type="submit" class="btn btn-primary" name="provider" value="@provider.Name" title="Log in using your @provider.DisplayName account">@provider.DisplayName</button>
+                                }
+                            </p>
+                        </div>
+                    </form>
+                }
+            }
+        </section>*@
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

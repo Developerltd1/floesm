@@ -1,0 +1,472 @@
+﻿@model IEnumerable<floesm_pro.Model.UploadedImages>
+@{
+    ViewData["Title"] = "ArtGallery Featured";
+    Layout = "~/Pages/Shared/_secondLayout.cshtml";
+}
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fabric.js/4.1.0/fabric.min.js"></script>
+    <script src="https://cdn.metroui.org.ua/v4-dev/js/metro.min.js"></script>
+
+    <title>ArtGalleryFeatured</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/js/select2.min.js" integrity="sha512-2ImtlRlf2VVmiGZsjm9bEyhjGW4dU7B6TNwh/hx/iSByxNENtj3WVE6o/9Lj4TJeVXPi4bnOIMXFIJJAeufa0A==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/css/select2.min.css" integrity="sha512-nMNlpuaDPrqlEls3IX/Q56H36qvBASwb3ipuo3MxeWbsQB1881ox0cRv7UPTgBlriqoynt35KjEwgGUeUXIPnw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdn.metroui.org.ua/v4-dev/css/metro-all.min.css" />
+</head>
+<style>
+    .canvas-section {
+        background-image: url('https://media.istockphoto.com/photos/empty-minimalist-room-with-gray-wall-on-background-picture-id1129813604?b=1&k=20&m=1129813604&s=170667a&w=0&h=nTa5JGo-SFath8TaWZ8Of_-QeW_H9i53-pPTP02ldE0=');
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+
+    .select2-selection__arrow {
+        display: none
+    }
+
+    .setting-item {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .image-setting-items {
+        border: 2px solid;
+        padding: 3px 12px;
+        line-height: 1;
+        cursor: pointer;
+        border-radius: 0 !important
+    }
+
+    .card {
+        border: 0;
+        margin-bottom: 12px
+    }
+
+    .image-setting-items a {
+        color: black;
+        text-decoration: none
+    }
+
+    .image-setting-area span:last-child {
+        font-size: 24px;
+        font-weight: 700;
+    }
+
+    .right-panel {
+        padding: 15px;
+        background: #fff;
+        font-size: 18px;
+        font-weight: 600;
+    }
+
+    button.submit-btn.btn {
+        background: black;
+        color: white;
+        border-radius: 0;
+        padding: 10px 20px;
+    }
+
+    .searchPaintings {
+        display: flex;
+        align-items: center;
+        grid-gap: 10px;
+        margin-bottom: 8px
+    }
+
+    .searchImg {
+        width: 60px;
+        height: 60px;
+        min-width: 60px;
+    }
+
+        .searchImg img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+    .paintingHeader {
+        font-size: 16px;
+        font-weight: 500;
+    }
+
+    .paintingDesc {
+        font-size: 14px;
+        font-weight: normal;
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+    }
+
+    .card-body {
+        max-height: 267px;
+        overflow: auto;
+        padding: 10px 8px;
+        background: #e4e4e4;
+    }
+
+    .collapse {
+        overflow: auto;
+        max-height: initial !important;
+    }
+
+    .color-selector {
+        width: 100% !important
+    }
+
+    .color-values-block > div:not(.color-value-hex) {
+        display: none
+    }
+
+    .color-selector .user-colors-actions {
+        display: none !important
+    }
+
+    .color-selector .color-map {
+        width: 152px;
+        height: 144px;
+    }
+
+    .searchInput input {
+        width: 86%;
+        /* margin: auto; */
+        border: 0;
+        margin-bottom: 6px;
+        padding: 3px 6px;
+    }
+    /*#color_picker:not(.appendedColorPicker){
+        display:none !important
+
+    }
+    .appendedColorPicker{
+        display:block !important;
+        position:relative !important
+    }*/
+</style>
+<body>
+    <div class="row w-100 mx-0 py-5">
+        <div class="col-md-9">
+            <div class="canvas-area h-100">
+                @*<label>Step: <input type=range min=0 max=5 value=2></label><span>4</span><br>*@
+                <div class="canvas-section h-100 d-flex align-items-center justify-content-center">
+                    <canvas id="canvas" width=780 height=400></canvas>
+                </div>
+
+            </div>
+        </div>
+        <div class="col-md-3 right-panel">
+            <div class="image-setting-area">
+                <div id="accordion">
+
+                    <div class="card">
+                        <div class="image-setting-items card-header">
+                            <a class="setting-item" data-toggle="collapse" href="#collapseOne">
+                                <span>Search</span>
+                                <span>+</span>
+                            </a>
+                        </div>
+                        <div id="collapseOne" class="collapse" data-parent="#accordion">
+                            <div class="card-body">
+                                <div class="searchInput text-center">
+                                    <input type="text" placeholder="Type Here..." />
+                                </div>
+
+                                @if (Model != null && Model.Count() > 0)
+                                {
+                                    @foreach (var item in Model)
+                                    {
+                                        <div class="searchPaintings">
+                                            <div class="searchImg">
+                                                <img src="@item.ImageUrl.Replace("~","")" />
+                                            </div>
+                                            <div class="aboutPainting">
+                                                <div class="paintingHeader">Painting 1</div>
+                                                <div class="paintingDesc">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</div>
+                                            </div>
+                                        </div>
+                                    }
+                                }
+                                else
+                                {
+                                    <p>No image uploadeds</p>
+                                }
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <div class="image-setting-items card-header">
+                            <a class="setting-item" id="picker_launcher" data-toggle="collapse" href="#collapseTwo">
+                                <span>background</span>
+                                <span>+</span>
+                            </a>
+                        </div>
+                        <div id="collapseTwo" class="collapse" data-parent="#accordion">
+                            <div class="card-body">
+                                <div class="">
+                                    @*<div class="mb-2 d-none">
+                                            <button class="button" onclick="Metro.getPlugin('#color-selector-1', 'color-selector').val('#aa00ff')">Set to Violet</button>
+                                            <button class="button" onclick="alert(Metro.getPlugin('#color-selector-1', 'color-selector').val())">Get color</button>
+                                        </div>*@
+                                    <div id="color-selector-1" data-role="color-selector"></div>
+                                    <input type="file" id="BackgroundImage" onchange="readURL(event)" />
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <div class="image-setting-items card-header">
+                            <a class="setting-item" data-toggle="collapse" href="#collapseThree">
+                                <span>Measure</span>
+                                <span>+</span>
+                            </a>
+                        </div>
+                        <div id="collapseThree" class="collapse" data-parent="#accordion">
+                            <div class="card-body">
+                                <input type="text" href="javascript(void);" onfocusout="ChangeLengthOfCanvas(this)" data-Name="Width" placeholder="Enter Width" />
+                                <input type="text" href="javascript(void);" onfocusout="ChangeLengthOfCanvas(this)" data-Name="Height" placeholder="Enter Height" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="image-setting-items card-header">
+                            <a class="setting-item" data-toggle="collapse" href="#collapseFour">
+                                <span>Lightning</span>
+                                <span>+</span>
+                            </a>
+                        </div>
+                        <div id="collapseFour" class="collapse" data-parent="#accordion">
+                            <div class="card-body">
+                                <div class="row my-4 text-center">
+                                    <div class="col-md-3">
+                                        <div class="btn-group btn-group-sm">
+                                            <button class="filter-btn brightness-remove btn btn-info">-</button>
+                                            <button class="btn btn-secondary btn-disabled" disabled>Brightness</button>
+                                            <button class="filter-btn brightness-add btn btn-info">+</button>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row my-4 text-center">
+                                    <div class="col-md-3">
+                                        <div class="btn-group btn-group-sm">
+                                            <button class="filter-btn contrast-remove btn btn-info">-</button>
+                                            <button class="btn btn-secondary btn-disabled" disabled>Contrast</button>
+                                            <button class="filter-btn contrast-add btn btn-info">+</button>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row my-4 text-center">
+                                    <div class="col-md-3">
+                                        <div class="btn-group btn-group-sm">
+                                            <button class="filter-btn saturation-remove btn btn-info">-</button>
+                                            <button class="btn btn-secondary btn-disabled" disabled>Saturation</button>
+                                            <button class="filter-btn saturation-add btn btn-info">+</button>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row my-4 text-center">
+                                    <div class="col-md-3">
+                                        <div class="btn-group btn-group-sm">
+                                            <button class="filter-btn vibrance-remove btn btn-info">-</button>
+                                            <button class="btn btn-secondary btn-disabled" disabled>Vibrance</button>
+                                            <button class="filter-btn vibrance-add btn btn-info">+</button>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row mt-5">
+                                    <div class="col-md-6">
+                                        <button id="revert-btn" class="btn btn-danger btn-block">Remove Filters</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="image-setting-items card-header">
+                            <a class="setting-item" data-toggle="collapse" href="#collapseFive">
+                                <span>Save</span>
+                                <span>+</span>
+                            </a>
+                        </div>
+                        <div id="collapseFive" class="collapse" data-parent="#accordion">
+                            <div class="card-body">
+                                Lorem ipsum..
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="image-setting-items card-header">
+                            <a class="setting-item" data-toggle="collapse" href="#collapseSix">
+                                <span>Favorite</span>
+                                <span>+</span>
+                            </a>
+                        </div>
+                        <div id="collapseSix" class="collapse" data-parent="#accordion">
+                            <div class="card-body">
+                                @if (Model != null && Model.Count() > 0)
+                                {
+                                    @foreach (var item in Model)
+                                    {
+                                        <div class="searchPaintings">
+                                            <div class="searchImg">
+                                                <img src="@item.ImageUrl" />
+                                            </div>
+                                            <div class="aboutPainting">
+                                                <div class="paintingHeader">Painting 1</div>
+                                                <div class="paintingDesc">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</div>
+                                            </div>
+                                        </div>
+                                    }
+                                }
+                                else
+                                {
+                                    <p>No image uploaded</p>
+                                }
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="button-submit">
+                    <button class="submit-btn btn">Add To Cart</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/camanjs/4.1.2/caman.full.js"></script>
+    <script>
+        function readURL(event) {
+            var getImagePath = URL.createObjectURL(event.target.files[0]);
+            $('.canvas-section').css('background-image', 'url(' + getImagePath + ')');
+        }
+
+        const canvas = document.getElementById("canvas");
+        const ctx = canvas.getContext("2d");
+        let img = new Image();
+        let fileName = "";
+
+        const downloadBtn = document.getElementById("download-btn");
+        const uploadFile = document.getElementsByClassName("searchImg");
+        const revertBtn = document.getElementById("revert-btn");
+
+        // Filter & Effect Handlers
+        document.addEventListener("click", e => {
+            if (e.target.classList.contains("filter-btn")) {
+                if (e.target.classList.contains("brightness-add")) {
+                    Caman("#canvas", img, function () {
+                        this.brightness(5).render();
+                    });
+                } else if (e.target.classList.contains("brightness-remove")) {
+                    Caman("#canvas", img, function () {
+                        this.brightness(-5).render();
+                    });
+                } else if (e.target.classList.contains("contrast-add")) {
+                    Caman("#canvas", img, function () {
+                        this.contrast(5).render();
+                    });
+                } else if (e.target.classList.contains("contrast-remove")) {
+                    Caman("#canvas", img, function () {
+                        this.contrast(-5).render();
+                    });
+                } else if (e.target.classList.contains("saturation-add")) {
+                    Caman("#canvas", img, function () {
+                        this.saturation(5).render();
+                    });
+                } else if (e.target.classList.contains("saturation-remove")) {
+                    Caman("#canvas", img, function () {
+                        this.saturation(-5).render();
+                    });
+                }
+            }
+        });
+
+        // Revert Filters
+        revertBtn.addEventListener("click", e => {
+            Caman("#canvas", img, function () {
+                this.revert();
+            });
+        });
+
+        // Upload File
+        //uploadFile[1].addEventListener("click", e => {
+        //    // Init FileReader API
+        //    let imgUrl = e.srcElement.getAttribute('src');
+        //    img.src = imgUrl;
+        //    img.crossOrigin = "Anonymous";
+        //    ctx.drawImage(img, 0, 0, img.width, img.height);
+        //});
+
+        //// Download Event
+        //downloadBtn.addEventListener("click", () => {
+        //    // Get ext
+        //    const fileExtension = fileName.slice(-4);
+
+        //    // Init new filename
+        //    let newFilename;
+
+        //    // Check image type
+        //    if (fileExtension === ".jpg" || fileExtension === ".png") {
+        //        // new filename
+        //        newFilename = fileName.substring(0, fileName.length - 4) + "-edited.jpg";
+        //    }
+
+        //    // Call download
+        //    download(canvas, newFilename);
+        //});
+
+        //// Download
+        //function download(canvas, filename) {
+        //    // Init event
+        //    let e;
+        //    // Create link
+        //    const link = document.createElement("a");
+
+        //    // Set props
+        //    link.download = filename;
+        //    link.href = canvas.toDataURL("image/jpeg", 0.8);
+        //    // New mouse event
+        //    e = new MouseEvent("click");
+        //    // Dispatch event
+        //    link.dispatchEvent(e);
+        //}
+        function ChangeLengthOfCanvas(e) {
+            let that = $(e);
+            let Name = that.attr('data-Name');
+            if (Name != null) {
+                if (Name.toLocaleLowerCase() == "width") {
+                    $('#canvas').attr('width', that.val());
+                }
+                else {
+                    $('#canvas').attr('height', that.val());
+                }
+                ctx.drawImage(img, 0, 0);
+            }
+        }
+
+        $(".searchImg").click(function (e) {
+            let imgUrl = e.target.src;
+            img.src = imgUrl;
+            img.crossOrigin = "Anonymous";
+            img.width = e.target.width;
+            img.height = e.target.height;
+            ctx.drawImage(img, 0, 0, canvas.width, canvas.height);
+        });
+
+
+    </script>
+
+</body>
+</html>

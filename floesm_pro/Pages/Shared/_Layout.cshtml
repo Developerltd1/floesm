@@ -1,0 +1,296 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - floesm_pro</title>
+    @*<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+        <link rel="stylesheet" href="~/css/site.css" />*@
+    <link href="~/themeCSS/animate.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    @*<link href="~/themeCSS/bootstrap.min.css" rel="stylesheet" />
+        <link href="~/themeCSS/bootstrap-datepicker.min.css" rel="stylesheet" />
+        <link href="~/themeCSS/bootstrap-select.min.css" rel="stylesheet" />*@
+    @*<link href="~/themeCSS/font-awesome.min.css" rel="stylesheet" />*@
+    @*<link href="~/themeCSS/hover-min.css" rel="stylesheet" />
+        <link href="~/themeCSS/jquery.bootstrap-touchspin.min.css" rel="stylesheet" />
+        <link href="~/themeCSS/jquery.mCustomScrollbar.min.css" rel="stylesheet" />
+        <link href="~/themeCSS/magnific-popup.css" rel="stylesheet" />
+        <link href="~/themeCSS/nouislider.css" rel="stylesheet" />
+        <link href="~/themeCSS/owl.carousel.min.css" rel="stylesheet" />
+        <link href="~/themeCSS/owl.theme.default.min.css" rel="stylesheet" />*@
+    <link href="~/themeCSS/responsive.css" rel="stylesheet" />
+    <link href="~/themeCSS/style.css" rel="stylesheet" />
+    <link href="~/themeCSS/style(1).css" rel="stylesheet" />
+    <link rel="icon" href="~/shopImages/04/15098-compositions-01-mae-studio-min-scaled.jpg" type="image/gif" sizes="16x16">
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link href="~/css/custom.css" rel="stylesheet" />
+    <link href="~/css/responsive.css" rel="stylesheet" />
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.css" rel="stylesheet" />
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick-theme.min.css" rel="stylesheet" />
+    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark box-shadow bg-white fixed-top">
+            <div class="container">
+                <div class="menu-logo">
+                    <a href="~/">
+                        Floeism
+                    </a>
+
+                </div>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+
+                    <span class="navbar-toggler-icon position-relative"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1 menu-tabs justify-content-center">
+
+                        <li class="current nav-item active">
+                            <a href="~/Home/Gallery" class="nav-link">Gallery</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="~/Home/shop" class="nav-link">Shop</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a href="#" class="nav-link">Custom</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a href="~/Home/Aboutus" class="nav-link">About</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="~/Home/contactUs" class="nav-link">Contact</a>
+                        </li>
+                         
+
+                    </ul>
+                    <div class="tab-highlighter"></div>
+                    <div class="menu-checkout d-flex">
+                        <div class="p-2">
+                            <a class="color-blk"><img class="px-2" width="40" src="~/themeIMG/united-states.svg" />USD</a>
+                        </div>
+                        <div class="checkout-card p-2 position-relative">
+                            <span>3</span>
+                            <img width="25" src="~/themeIMG/shopping-cart.svg" />
+                        </div>
+
+                    </div>
+                   
+                </div>
+
+            </div>
+        </nav>
+
+    </header>
+    <div class="containerss">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="site-footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4 text-left">
+                    <a class="site-footer__logo" href="#">Floeism</a>
+           
+                </div>
+                <div class="col-lg-4">
+                    <p class="payment-text">We Accept</p>
+                    <div class="site-footer__social">
+                        <a href="#"><i class="fab fa-cc-discover"></i></a>
+                        <a href="#"><i class="fab fa-cc-mastercard"></i></a>
+                        <a href="#"><i class="fab fa-cc-visa"></i></a>
+                        <a href="#"><i class="fab fa-cc-paypal"></i></a>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <p class="payment-text">Social Links</p>
+                    <div class="social-links text-left">
+                        <a><i class="fab fa-facebook-square mr-2"></i></a>
+                        <a><i class="fab fa-instagram-square mr-2"></i></a>
+                        <a><i class="fab fa-twitter-square"></i></a>
+                    </div>
+                </div>
+
+            </div>
+            <p class="site-footer__copy pt-5">Copyrights © 2021 <a href="#">Floesm</a>, All Rights Reserved.</p>
+            <!-- /.site-footer__copy -->
+        </div><!-- /.container -->
+    </footer><!-- /.site-footer -->
+    <!-- jQuery library -->
+ 
+
+    <!-- Popper JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+
+    <!-- Latest compiled JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="~/themeJS/jquery.validate.min.js"></script>
+
+    <script src="~/themeJS/bootstrap-datepicker.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.js"></script>
+    
+    @*<script src="~/themeJS/theme.js"></script>*@
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+
+</body>
+</html>
+
+<script>
+    $('.product-filter-mobile-trigger').on('click', function () {
+        $('body').addClass('filter-visible')
+    })
+
+
+
+    $(window).scroll(function () {
+        $(".slider-one__carousel").css("opacity", 1 - $(window).scrollTop() / 650);
+    });
+
+
+    $(document).on('hover', '.nav-item a', function () {debugger
+        var $this = $(this);
+        TabHighlighter.set($this);
+        $this.closest('li').siblings('.active').removeClass('active');
+        $this.closest('li').addClass('active');
+    });
+    var TabHighlighter = {
+        set: function ($this) {
+            $('.tab-highlighter').css({
+                'left': $this.closest('li').offset().left,
+                'width': $this.closest('li').outerWidth()
+            });
+        },
+        refresh: function () {
+            var $this = $('li.nav-item.active a');
+            $('.tab-highlighter').css({
+                'left': $this.closest('li').offset().left,
+                'width': $this.closest('li').outerWidth()
+            });
+        }
+    };
+    $(window).resize(function () {
+        TabHighlighter.refresh();
+    });
+    $(document).ready(function () {
+        TabHighlighter.refresh();
+    });
+    
+    var mainRand
+    $(document).ready(function () {
+        
+            animateDiv('.header-asset1');
+            animateDiv('.header-asset2');
+            animateDiv('.header-asset3');
+            animateDiv('.header-asset4');
+            animateDiv('.header-asset5');
+
+
+            setTimeout(function () {
+                $(".animie-one").addClass("load-animate-1");
+            }, mainRand*200);
+
+            setTimeout(function () {
+                $(".animie-two").addClass("load-animate-2");
+            }, mainRand*450);
+            setTimeout(function () {
+                $(".animie-three").addClass("load-animate-3");
+            }, mainRand*500);
+            setTimeout(function () {
+                $(".animie-four").addClass("load-animate-4");
+            }, mainRand*650);
+            setTimeout(function () {
+                $(".animie-five").addClass("load-animate-5");
+            }, mainRand * 750);
+
+
+        $('.card-slider').slick({
+            dots: false,
+            arrows: true,
+            slidesToShow: 5,
+            infinite: false,
+            responsive: [
+                {
+                    breakpoint: 1280,
+                    settings: {
+                        slidesToShow: 5
+                    },
+                    breakpoint: 1024,
+                    settings: {
+                        slidesToShow: 4
+                    }
+                },
+                {
+                    breakpoint: 800,
+                    settings: {
+                        slidesToShow: 3
+                    }
+                },
+                {
+                    breakpoint: 600,
+                    settings: {
+                        slidesToShow: 1
+                    }
+                }
+            ]
+        });
+        $('.slick-gallery').slick({
+            dots: true,
+            arrows: true,
+            slidesToShow: 1,
+            infinite: true,
+            autoplay: true,
+            autoplaySpeed: 2500,
+            responsive: [
+                {
+                    breakpoint: 1280,
+                    settings: {
+                        slidesToShow: 1
+                    }
+                }
+            ]
+        });
+    });
+    
+        
+    function makeNewPosition() {
+ 
+        mainRand = Math.random()
+            // Get viewport dimensions (remove the dimension of the div)
+            var h = $(window).height() - 50;
+            var w = $(window).width() - 50;
+            
+
+            
+            var nh = Math.floor(Math.random() * h);
+            var nw = Math.floor(Math.random() * w);
+            return [nh, nw];
+
+        }
+
+        function animateDiv(myclass) {
+            var newq = makeNewPosition();
+            //$(myclass).animate({ top: newq[0], left: newq[1] }, 1000, function () {
+            //    animateDiv(myclass);
+            //});
+
+            if (mainRand < 0.5) {
+                $(myclass).css('transform', 'translate(' + newq[0] + 'px,-' + newq[1] + 'px)')
+            }
+            else {
+                $(myclass).css('transform', 'translate(' + newq[0] + 'px,' + newq[1] + 'px)')
+            }
+           
+        };
+
+</script>

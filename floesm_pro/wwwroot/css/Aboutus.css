@@ -1,0 +1,203 @@
+﻿*, *::after, *::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+img {
+    max-width: 100%;
+}
+
+.section-space {
+    margin: 42px 0;
+}
+/* Section 1 */
+.page-content__section {
+    height: 100vh;
+    padding: 10rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.page-content__section--color1 {
+    background-color: #333;
+}
+
+.page-content__section--color2 {
+    background-color: #999;
+}
+
+.page-content__section--bg1 {
+    background-image: url('https://cdn.pixabay.com/photo/2015/12/01/20/28/road-1072823_960_720.jpg');
+}
+
+.page-content__section--bg2 {
+    background-attachment: fixed;
+    background-image: url('https://cdn.pixabay.com/photo/2015/09/09/16/05/forest-931706_960_720.jpg');
+}
+
+.page-content__section-title {
+    font-size: 4rem;
+}
+
+.page-content__section-content {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.page-content__section-scroll {
+    width: 100%;
+    text-align: center;
+    font-size: 2rem;
+}
+
+
+.black-bg {
+    background-color: #000;
+}
+
+
+/* Part 3 */
+
+.part-3 {
+    line-height: 220px;
+}
+
+    .part-3 h2 {
+        font-family: 'Roboto', sans-serif;
+        font-weight: 500;
+        font-style: normal;
+        font-size: 802px;
+        font-size: 50.65625vw;
+        line-height: .879em;
+        letter-spacing: -.04em;
+        color: #141414;
+    }
+
+/* Section 3 */
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+/* body {
+        position: relative;
+        box-sizing: border-box;
+        padding: 10px;
+        min-height: 10000px;
+        width: 100%;
+   } */
+.containers {
+    position: relative;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+    /* width: 680px; */
+    min-height: 460px;
+    background: #fff;
+    /* overflow: hidden; */
+    /* perspective: 100px;
+        transform-style: preserve-3d; */
+}
+
+    .containers .square {
+        position: absolute;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        background: #000;
+        transition-property: transform, visibility, opacity;
+        transition-duration: 0.2s, 0s, 0.2s;
+        transition-timing-function: linear, linear, ease-in-out;
+        transition-delay: 0s, 0s, 0s;
+        transform: translate3d(0, 0, 0);
+        /* backface-visibility: hidden;
+        visibility: hidden;
+        opacity: 0; */
+    }
+
+        .containers .square p {
+            font-family: "Helvetica Neue", Helvetica, arial, sans-serif;
+            text-align: center;
+            color: #fff;
+        }
+
+    .containers .square-1 {
+        top: -86px;
+        left: auto;
+        width: 240px;
+        height: 212px;
+        right: 305px;
+    }
+
+    .containers .square-2 {
+        top: 40px;
+        left: auto;
+        width: 360px;
+        height: 300px;
+        right: -119px;
+    }
+
+    .containers .square-3 {
+        top: auto;
+        left: auto;
+        width: 300px;
+        height: 280px;
+        bottom: -162px;
+        right: 193px;
+    }
+
+.\33 Left {
+    position: absolute;
+    bottom: 0;
+    z-index: 1;
+    max-width: 564px;
+}
+
+.dateText {
+    font-weight: 400;
+    font-style: normal;
+    font-size: 11px;
+    font-size: .85938vw;
+    line-height: 1.134;
+    letter-spacing: .02em;
+    text-transform: uppercase;
+    color: #141414;
+    margin-bottom: 14px;
+}
+
+.main-para {
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1.71875vw;
+    line-height: 1;
+    letter-spacing: -.01em;
+}
+
+.max-500 {
+    max-width: 500px;
+}
+
+video {
+    max-width: 100%;
+}
+
+.center-width {
+    max-width: 70%;
+    margin: auto;
+}

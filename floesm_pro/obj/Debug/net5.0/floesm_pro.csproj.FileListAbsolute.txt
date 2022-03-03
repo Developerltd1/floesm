@@ -1,0 +1,1710 @@
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\appsettings.Development.json
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\appsettings.json
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\floesm_pro.StaticWebAssets.xml
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\floesm_pro.exe
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\floesm_pro.deps.json
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\floesm_pro.runtimeconfig.json
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\floesm_pro.runtimeconfig.dev.json
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\floesm_pro.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\ref\floesm_pro.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\floesm_pro.pdb
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\floesm_pro.Views.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\floesm_pro.Views.pdb
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\Humanizer.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Project\Floesm\floesm\floesm_pro\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project\Floesm\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Floesm\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.AssemblyInfoInputs.cache
+D:\Project\Floesm\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.AssemblyInfo.cs
+D:\Project\Floesm\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.csproj.CoreCompileInputs.cache
+D:\Project\Floesm\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.MvcApplicationPartsAssemblyInfo.cs
+D:\Project\Floesm\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.MvcApplicationPartsAssemblyInfo.cache
+D:\Project\Floesm\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.RazorAssemblyInfo.cache
+D:\Project\Floesm\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.RazorAssemblyInfo.cs
+D:\Project\Floesm\floesm\floesm_pro\obj\Debug\net5.0\staticwebassets\floesm_pro.StaticWebAssets.Manifest.cache
+D:\Project\Floesm\floesm\floesm_pro\obj\Debug\net5.0\staticwebassets\floesm_pro.StaticWebAssets.xml
+D:\Project\Floesm\floesm\floesm_pro\obj\Debug\net5.0\scopedcss\bundle\floesm_pro.styles.css
+D:\Project\Floesm\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.TagHelpers.input.cache
+D:\Project\Floesm\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.TagHelpers.output.cache
+D:\Project\Floesm\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.RazorCoreGenerate.cache
+D:\Project\Floesm\floesm\floesm_pro\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\Project\Floesm\floesm\floesm_pro\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+D:\Project\Floesm\floesm\floesm_pro\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\Project\Floesm\floesm\floesm_pro\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\Project\Floesm\floesm\floesm_pro\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\Project\Floesm\floesm\floesm_pro\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\Project\Floesm\floesm\floesm_pro\obj\Debug\net5.0\Razor\Pages\contact.cshtml.g.cs
+D:\Project\Floesm\floesm\floesm_pro\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\Project\Floesm\floesm\floesm_pro\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+D:\Project\Floesm\floesm\floesm_pro\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+D:\Project\Floesm\floesm\floesm_pro\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Project\Floesm\floesm\floesm_pro\obj\Debug\net5.0\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
+D:\Project\Floesm\floesm\floesm_pro\obj\Debug\net5.0\Razor\Pages\Shared\_secondLayout.cshtml.g.cs
+D:\Project\Floesm\floesm\floesm_pro\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Project\Floesm\floesm\floesm_pro\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Project\Floesm\floesm\floesm_pro\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Project\Floesm\floesm\floesm_pro\obj\Debug\net5.0\Razor\Views\Home\Aboutus.cshtml.g.cs
+D:\Project\Floesm\floesm\floesm_pro\obj\Debug\net5.0\Razor\Views\Home\contactUs.cshtml.g.cs
+D:\Project\Floesm\floesm\floesm_pro\obj\Debug\net5.0\Razor\Views\Home\Gallery.cshtml.g.cs
+D:\Project\Floesm\floesm\floesm_pro\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Project\Floesm\floesm\floesm_pro\obj\Debug\net5.0\Razor\Views\Home\shop.cshtml.g.cs
+D:\Project\Floesm\floesm\floesm_pro\obj\Debug\net5.0\Razor\Views\Main\ArtGallery.cshtml.g.cs
+D:\Project\Floesm\floesm\floesm_pro\obj\Debug\net5.0\Razor\Views\Main\ArtGalleryFeatured.cshtml.g.cs
+D:\Project\Floesm\floesm\floesm_pro\obj\Debug\net5.0\Razor\Views\Main\Index.cshtml.g.cs
+D:\Project\Floesm\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.RazorTargetAssemblyInfo.cache
+D:\Project\Floesm\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.RazorTargetAssemblyInfo.cs
+D:\Project\Floesm\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.Views.pdb
+D:\Project\Floesm\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.csproj.CopyComplete
+D:\Project\Floesm\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.dll
+D:\Project\Floesm\floesm\floesm_pro\obj\Debug\net5.0\ref\floesm_pro.dll
+D:\Project\Floesm\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.pdb
+D:\Project\Floesm\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.genruntimeconfig.cache
+D:\Project\Floesm\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.csproj.AssemblyReference.cache
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\appsettings.json
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\floesm_pro.StaticWebAssets.xml
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\floesm_pro.exe
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\floesm_pro.deps.json
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\floesm_pro.runtimeconfig.json
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\floesm_pro.runtimeconfig.dev.json
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\floesm_pro.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\ref\floesm_pro.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\floesm_pro.pdb
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\floesm_pro.Views.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\floesm_pro.Views.pdb
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\Humanizer.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.csproj.AssemblyReference.cache
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.AssemblyInfoInputs.cache
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.AssemblyInfo.cs
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.csproj.CoreCompileInputs.cache
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.RazorAssemblyInfo.cache
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.RazorAssemblyInfo.cs
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\obj\Debug\net5.0\staticwebassets\floesm_pro.StaticWebAssets.Manifest.cache
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\obj\Debug\net5.0\staticwebassets\floesm_pro.StaticWebAssets.xml
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\obj\Debug\net5.0\scopedcss\bundle\floesm_pro.styles.css
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.TagHelpers.input.cache
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.TagHelpers.output.cache
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.RazorCoreGenerate.cache
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\obj\Debug\net5.0\Razor\Pages\contact.cshtml.g.cs
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\obj\Debug\net5.0\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\obj\Debug\net5.0\Razor\Pages\Shared\_secondLayout.cshtml.g.cs
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\obj\Debug\net5.0\Razor\Views\Home\Aboutus.cshtml.g.cs
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\obj\Debug\net5.0\Razor\Views\Home\contactUs.cshtml.g.cs
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\obj\Debug\net5.0\Razor\Views\Home\Gallery.cshtml.g.cs
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\obj\Debug\net5.0\Razor\Views\Home\shop.cshtml.g.cs
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\obj\Debug\net5.0\Razor\Views\Main\ArtGallery.cshtml.g.cs
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\obj\Debug\net5.0\Razor\Views\Main\ArtGalleryFeatured.cshtml.g.cs
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\obj\Debug\net5.0\Razor\Views\Main\Index.cshtml.g.cs
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.RazorTargetAssemblyInfo.cache
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.RazorTargetAssemblyInfo.cs
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.Views.pdb
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.csproj.CopyComplete
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\obj\Debug\net5.0\ref\floesm_pro.dll
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.pdb
+C:\Users\92347\Downloads\floesm\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.genruntimeconfig.cache
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\appsettings.Development.json
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\appsettings.json
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\floesm_pro.StaticWebAssets.xml
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\floesm_pro.exe
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\floesm_pro.deps.json
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\floesm_pro.runtimeconfig.json
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\floesm_pro.runtimeconfig.dev.json
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\floesm_pro.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\ref\floesm_pro.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\floesm_pro.pdb
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\floesm_pro.Views.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\floesm_pro.Views.pdb
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\Humanizer.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\New projects\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.csproj.AssemblyReference.cache
+D:\New projects\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.GeneratedMSBuildEditorConfig.editorconfig
+D:\New projects\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.AssemblyInfoInputs.cache
+D:\New projects\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.AssemblyInfo.cs
+D:\New projects\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.csproj.CoreCompileInputs.cache
+D:\New projects\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.MvcApplicationPartsAssemblyInfo.cs
+D:\New projects\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.MvcApplicationPartsAssemblyInfo.cache
+D:\New projects\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.RazorAssemblyInfo.cache
+D:\New projects\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.RazorAssemblyInfo.cs
+D:\New projects\floesm\floesm_pro\obj\Debug\net5.0\staticwebassets\floesm_pro.StaticWebAssets.Manifest.cache
+D:\New projects\floesm\floesm_pro\obj\Debug\net5.0\staticwebassets\floesm_pro.StaticWebAssets.xml
+D:\New projects\floesm\floesm_pro\obj\Debug\net5.0\scopedcss\bundle\floesm_pro.styles.css
+D:\New projects\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.TagHelpers.input.cache
+D:\New projects\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.TagHelpers.output.cache
+D:\New projects\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.RazorCoreGenerate.cache
+D:\New projects\floesm\floesm_pro\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\New projects\floesm\floesm_pro\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+D:\New projects\floesm\floesm_pro\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\New projects\floesm\floesm_pro\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\New projects\floesm\floesm_pro\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\New projects\floesm\floesm_pro\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\New projects\floesm\floesm_pro\obj\Debug\net5.0\Razor\Pages\contact.cshtml.g.cs
+D:\New projects\floesm\floesm_pro\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\New projects\floesm\floesm_pro\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+D:\New projects\floesm\floesm_pro\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+D:\New projects\floesm\floesm_pro\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\New projects\floesm\floesm_pro\obj\Debug\net5.0\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
+D:\New projects\floesm\floesm_pro\obj\Debug\net5.0\Razor\Pages\Shared\_secondLayout.cshtml.g.cs
+D:\New projects\floesm\floesm_pro\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\New projects\floesm\floesm_pro\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\New projects\floesm\floesm_pro\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\New projects\floesm\floesm_pro\obj\Debug\net5.0\Razor\Views\Home\Aboutus.cshtml.g.cs
+D:\New projects\floesm\floesm_pro\obj\Debug\net5.0\Razor\Views\Home\contactUs.cshtml.g.cs
+D:\New projects\floesm\floesm_pro\obj\Debug\net5.0\Razor\Views\Home\Gallery.cshtml.g.cs
+D:\New projects\floesm\floesm_pro\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\New projects\floesm\floesm_pro\obj\Debug\net5.0\Razor\Views\Home\shop.cshtml.g.cs
+D:\New projects\floesm\floesm_pro\obj\Debug\net5.0\Razor\Views\Main\ArtGallery.cshtml.g.cs
+D:\New projects\floesm\floesm_pro\obj\Debug\net5.0\Razor\Views\Main\ArtGalleryFeatured.cshtml.g.cs
+D:\New projects\floesm\floesm_pro\obj\Debug\net5.0\Razor\Views\Main\Index.cshtml.g.cs
+D:\New projects\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.RazorTargetAssemblyInfo.cache
+D:\New projects\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.RazorTargetAssemblyInfo.cs
+D:\New projects\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.Views.pdb
+D:\New projects\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.csproj.CopyComplete
+D:\New projects\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.dll
+D:\New projects\floesm\floesm_pro\obj\Debug\net5.0\ref\floesm_pro.dll
+D:\New projects\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.pdb
+D:\New projects\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.genruntimeconfig.cache
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\mscorlib.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\netstandard.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.AppContext.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Buffers.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Collections.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.ComponentModel.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Configuration.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Console.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Core.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Data.Common.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Data.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Drawing.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Globalization.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.IO.Compression.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.IO.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Linq.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Memory.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Net.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Net.Http.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Net.Mail.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Net.Ping.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Net.Requests.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Net.Security.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Numerics.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.ObjectModel.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Reflection.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Runtime.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Security.Claims.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Security.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Security.Principal.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Text.Json.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Threading.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Transactions.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.ValueTuple.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Web.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Windows.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Xml.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\WindowsBase.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\appsettings.Development.json
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\appsettings.json
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\floesm_pro.StaticWebAssets.xml
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\floesm_pro.exe
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\floesm_pro.deps.json
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\floesm_pro.runtimeconfig.json
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\floesm_pro.runtimeconfig.dev.json
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\floesm_pro.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\ref\floesm_pro.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\floesm_pro.pdb
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\mscorlib.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\netstandard.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.AppContext.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Buffers.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Collections.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.ComponentModel.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Configuration.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Console.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Core.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Data.Common.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Data.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Drawing.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Globalization.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.IO.Compression.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.IO.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Linq.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Memory.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Net.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Net.Http.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Net.Mail.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Net.Ping.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Net.Requests.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Net.Security.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Numerics.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.ObjectModel.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Reflection.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Runtime.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Security.Claims.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Security.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Security.Principal.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Text.Json.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Threading.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Transactions.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.ValueTuple.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Web.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Windows.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Xml.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\refs\WindowsBase.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\floesm_pro.Views.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\floesm_pro.Views.pdb
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\Humanizer.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Qayyum\New projects\floesm\floesm_pro\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Qayyum\New projects\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.csproj.AssemblyReference.cache
+D:\Qayyum\New projects\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Qayyum\New projects\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.AssemblyInfoInputs.cache
+D:\Qayyum\New projects\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.AssemblyInfo.cs
+D:\Qayyum\New projects\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.csproj.CoreCompileInputs.cache
+D:\Qayyum\New projects\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.MvcApplicationPartsAssemblyInfo.cs
+D:\Qayyum\New projects\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.MvcApplicationPartsAssemblyInfo.cache
+D:\Qayyum\New projects\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.RazorAssemblyInfo.cache
+D:\Qayyum\New projects\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.RazorAssemblyInfo.cs
+D:\Qayyum\New projects\floesm\floesm_pro\obj\Debug\net5.0\staticwebassets\floesm_pro.StaticWebAssets.Manifest.cache
+D:\Qayyum\New projects\floesm\floesm_pro\obj\Debug\net5.0\staticwebassets\floesm_pro.StaticWebAssets.xml
+D:\Qayyum\New projects\floesm\floesm_pro\obj\Debug\net5.0\scopedcss\bundle\floesm_pro.styles.css
+D:\Qayyum\New projects\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.TagHelpers.input.cache
+D:\Qayyum\New projects\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.TagHelpers.output.cache
+D:\Qayyum\New projects\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.RazorCoreGenerate.cache
+D:\Qayyum\New projects\floesm\floesm_pro\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\Qayyum\New projects\floesm\floesm_pro\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+D:\Qayyum\New projects\floesm\floesm_pro\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\Qayyum\New projects\floesm\floesm_pro\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\Qayyum\New projects\floesm\floesm_pro\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\Qayyum\New projects\floesm\floesm_pro\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\Qayyum\New projects\floesm\floesm_pro\obj\Debug\net5.0\Razor\Pages\contact.cshtml.g.cs
+D:\Qayyum\New projects\floesm\floesm_pro\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\Qayyum\New projects\floesm\floesm_pro\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+D:\Qayyum\New projects\floesm\floesm_pro\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+D:\Qayyum\New projects\floesm\floesm_pro\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Qayyum\New projects\floesm\floesm_pro\obj\Debug\net5.0\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
+D:\Qayyum\New projects\floesm\floesm_pro\obj\Debug\net5.0\Razor\Pages\Shared\_secondLayout.cshtml.g.cs
+D:\Qayyum\New projects\floesm\floesm_pro\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Qayyum\New projects\floesm\floesm_pro\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Qayyum\New projects\floesm\floesm_pro\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Qayyum\New projects\floesm\floesm_pro\obj\Debug\net5.0\Razor\Views\Home\Aboutus.cshtml.g.cs
+D:\Qayyum\New projects\floesm\floesm_pro\obj\Debug\net5.0\Razor\Views\Home\contactUs.cshtml.g.cs
+D:\Qayyum\New projects\floesm\floesm_pro\obj\Debug\net5.0\Razor\Views\Home\Gallery.cshtml.g.cs
+D:\Qayyum\New projects\floesm\floesm_pro\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Qayyum\New projects\floesm\floesm_pro\obj\Debug\net5.0\Razor\Views\Home\shop.cshtml.g.cs
+D:\Qayyum\New projects\floesm\floesm_pro\obj\Debug\net5.0\Razor\Views\Main\ArtGallery.cshtml.g.cs
+D:\Qayyum\New projects\floesm\floesm_pro\obj\Debug\net5.0\Razor\Views\Main\ArtGalleryFeatured.cshtml.g.cs
+D:\Qayyum\New projects\floesm\floesm_pro\obj\Debug\net5.0\Razor\Views\Main\Index.cshtml.g.cs
+D:\Qayyum\New projects\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.RazorTargetAssemblyInfo.cache
+D:\Qayyum\New projects\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.RazorTargetAssemblyInfo.cs
+D:\Qayyum\New projects\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.Views.pdb
+D:\Qayyum\New projects\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.csproj.CopyComplete
+D:\Qayyum\New projects\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.dll
+D:\Qayyum\New projects\floesm\floesm_pro\obj\Debug\net5.0\ref\floesm_pro.dll
+D:\Qayyum\New projects\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.pdb
+D:\Qayyum\New projects\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.genruntimeconfig.cache
+D:\Qayyum\New projects\floesm\floesm_pro\obj\Debug\net5.0\Razor\Views\Main\TestArtGalleryFeatured.cshtml.g.cs
+D:\Qayyum\New projects\floesm\floesm_pro\obj\Debug\net5.0\Razor\Views\Main\Login.cshtml.g.cs
+D:\Qayyum\New projects\floesm\floesm_pro\obj\Debug\net5.0\Razor\Views\Main\UploadImages.cshtml.g.cs
+D:\Qayyum\New projects\floesm\floesm_pro\obj\Debug\net5.0\Razor\Views\Main\_uploadImagePartialview.cshtml.g.cs
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\appsettings.Development.json
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\appsettings.json
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\floesm_pro.StaticWebAssets.xml
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\floesm_pro.exe
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\floesm_pro.deps.json
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\floesm_pro.runtimeconfig.json
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\floesm_pro.runtimeconfig.dev.json
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\floesm_pro.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\ref\floesm_pro.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\floesm_pro.pdb
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\mscorlib.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\netstandard.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.AppContext.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Buffers.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Collections.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.ComponentModel.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Configuration.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Console.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Core.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Data.Common.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Data.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Drawing.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Globalization.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.IO.Compression.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.IO.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Linq.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Memory.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Net.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Net.Http.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Net.Mail.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Net.Ping.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Net.Requests.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Net.Security.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Numerics.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.ObjectModel.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Reflection.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Runtime.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Security.Claims.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Security.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Security.Principal.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Text.Json.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Threading.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Transactions.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.ValueTuple.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Web.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Windows.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Xml.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\refs\WindowsBase.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\floesm_pro.Views.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\floesm_pro.Views.pdb
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\Humanizer.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.csproj.AssemblyReference.cache
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.AssemblyInfoInputs.cache
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.AssemblyInfo.cs
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.csproj.CoreCompileInputs.cache
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.MvcApplicationPartsAssemblyInfo.cs
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.MvcApplicationPartsAssemblyInfo.cache
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.RazorAssemblyInfo.cache
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.RazorAssemblyInfo.cs
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\obj\Debug\net5.0\staticwebassets\floesm_pro.StaticWebAssets.Manifest.cache
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\obj\Debug\net5.0\staticwebassets\floesm_pro.StaticWebAssets.xml
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\obj\Debug\net5.0\scopedcss\bundle\floesm_pro.styles.css
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.TagHelpers.input.cache
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.TagHelpers.output.cache
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.RazorCoreGenerate.cache
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\obj\Debug\net5.0\Razor\Pages\contact.cshtml.g.cs
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\obj\Debug\net5.0\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\obj\Debug\net5.0\Razor\Pages\Shared\_secondLayout.cshtml.g.cs
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\obj\Debug\net5.0\Razor\Views\Home\Aboutus.cshtml.g.cs
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\obj\Debug\net5.0\Razor\Views\Home\contactUs.cshtml.g.cs
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\obj\Debug\net5.0\Razor\Views\Home\Gallery.cshtml.g.cs
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\obj\Debug\net5.0\Razor\Views\Home\shop.cshtml.g.cs
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\obj\Debug\net5.0\Razor\Views\Main\ArtGallery.cshtml.g.cs
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\obj\Debug\net5.0\Razor\Views\Main\ArtGalleryFeatured.cshtml.g.cs
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\obj\Debug\net5.0\Razor\Views\Main\Index.cshtml.g.cs
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\obj\Debug\net5.0\Razor\Views\Main\Login.cshtml.g.cs
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\obj\Debug\net5.0\Razor\Views\Main\TestArtGalleryFeatured.cshtml.g.cs
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\obj\Debug\net5.0\Razor\Views\Main\UploadImages.cshtml.g.cs
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\obj\Debug\net5.0\Razor\Views\Main\_uploadImagePartialview.cshtml.g.cs
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.RazorTargetAssemblyInfo.cache
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.RazorTargetAssemblyInfo.cs
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.Views.pdb
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.csproj.CopyComplete
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\obj\Debug\net5.0\ref\floesm_pro.dll
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.pdb
+D:\Application\Web\ASP.NET\MVC\BYAQIB\floesm\floesm_pro\obj\Debug\net5.0\floesm_pro.genruntimeconfig.cache

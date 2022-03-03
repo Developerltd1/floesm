@@ -1,0 +1,18 @@
+- Place the animation rgith at the top below the navitaion bar
+- Font will be usedin the website, in the Notpad FILe. (TT Norms Font).
+- Logo will be placed at the top left corner.
+- Fix lighting features as shown in video
+	[
+	  ]
+	  
+	  on shop page no images is being loaded
+- when someone upoad images on orther ewebsite then these images will go with batch images
+- when some one upload e Images EX: 100 Or 300  etc, with title & Price
+-arthur, 1:40 AM
+I want there to be an option to upload all images at once and the website will be programmed 
+to automatically create individual products for each without me having to do all of them 
+individually. The .PNG files will all have the title of the image was formated like 
+this "Acrylic N°0088_(11×14inch)_20200802" (Title_size_date) and it would automatically 
+input that data into the product created on the website. 
+For example Acrylic N°0088_(11×14inch)_20200802.png 	  
+-

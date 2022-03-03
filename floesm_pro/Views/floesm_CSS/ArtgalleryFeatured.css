@@ -1,0 +1,87 @@
+﻿*{
+    margin:0;
+    box-sizing:border-box;
+}
+body{
+    font-family:"Roboto", sans-serif;
+    background:#ffffff;
+    }
+h2{
+    margin:16px;
+}
+.container{
+    margin-top:150px;
+    padding:32px;
+    }
+.select-box{
+    display:flex;
+    width:400px;
+    flex-direction:column;
+    }
+.select-box .option-container{
+    background:#808080;
+    color:white;
+    /*max-height:0;*/
+    width:100%;
+    /*opacity:0;*/
+    transition:all 0.4s;
+    border-radius:8px;
+    overflow:hidden;
+
+    border:1px;
+    }
+
+.selected{
+    background:#808080;
+    border-radius: 8px;
+    margin-bottom:8px;
+    color:#ffffff;
+    position:relative;
+
+    order:0;
+}
+.selected::after{
+    content:" ";
+    background:url("img/arrow-down.svg");
+    background-size:contain;
+    background-repeat:no-repeat;
+
+    position:absolute;
+    height:100%;
+    width:32px;
+    right:10px;
+    top:5px;
+
+    transition: all 0.4s;
+}
+.select-box .option-container.active + .selected::after{
+    transform:rotateX(180deg);
+    top:-6px;
+}
+.select-box .option-container.active{
+    max-height:240px;
+    opacity:1;
+    overflow-y:scroll;
+}
+.select-box .option-container::-webkit-scrollbar{
+    width:8px;
+    background:#000000;
+    border-radius: 0 8px 8px 0;
+    }
+.select-box .option-container::-webkit-scrollbar-thumb{
+    background:#808080;
+    border-radius: 0 8px 8px 0;
+}
+
+
+.select-box .option,
+.selected{
+    padding:12px 24px;
+    cursor:pointer;
+    }
+.select-box .option:hover{
+    background:#808080;
+}
+.select-box .option .radio{
+    display:none;
+}

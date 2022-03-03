@@ -1,0 +1,12 @@
+﻿<form id="UploadImageForm" method="post" action="@Url.Action("UploadImage","Main")" enctype = "multipart/form-data" >
+    <div class="modal-body">
+        <div>
+            <img id="user_img" height="100" width="90" style="border:solid" />
+        </div>
+        <input type="file" title="search image" id="file" name="formFile" onchange="show(this)" />
+        <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+            <button type="submit" class="btn btn-primary">Upload Images</button>
+        </div>
+    </div>
+</form>

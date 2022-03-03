@@ -1,0 +1,80 @@
+﻿@model IEnumerable<floesm_pro.Model.UploadedImages>
+@{
+    ViewData["Title"] = "Upload Images";
+    Layout = "~/Pages/Shared/_secondLayout.cshtml";
+}
+
+<div class="container">
+    <button class="btn btn-info m-2 openPopup">Add Image</button>
+
+    <div style="background-color:#fff">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">#</th>
+                    <th scope="col">uploaded Image</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (Model != null && Model.Count()>0)
+                {
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <th scope="row">@item.Id</th>
+                            <td>@item.ImageUrl</td>
+                        </tr>
+                    }
+                }
+                else
+                {
+                    <tr><td>No record found</td></tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+
+<!-- Modal -->
+<div class="modal fade" id="UploadImageModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Upload Images</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="content-modal">
+
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<script>
+    $(".openPopup").click(function (e) {
+
+        $.ajax({
+            url: "/main/GetUploadImagePopup",
+            type: 'GET',
+            success: function (res) {
+                $('.content-modal').html(res);
+                $('#UploadImageModal').modal('show');
+            }
+        });
+    });
+
+    function show(input) {
+        if (input.files && input.files[0]) {
+            var filerdr = new FileReader();
+            filerdr.onload = function (e) {
+                $('#user_img').attr('src', e.target.result);
+            }
+            filerdr.readAsDataURL(input.files[0]);
+        }
+    }
+
+</script>
