@@ -19,8 +19,74 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/js/select2.min.js" integrity="sha512-2ImtlRlf2VVmiGZsjm9bEyhjGW4dU7B6TNwh/hx/iSByxNENtj3WVE6o/9Lj4TJeVXPi4bnOIMXFIJJAeufa0A==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/css/select2.min.css" integrity="sha512-nMNlpuaDPrqlEls3IX/Q56H36qvBASwb3ipuo3MxeWbsQB1881ox0cRv7UPTgBlriqoynt35KjEwgGUeUXIPnw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="https://cdn.metroui.org.ua/v4-dev/css/metro-all.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css">
+
+    @*Color*@
+    <!-- =============== VENDOR STYLES ===============-->
+    
+    <!-- FONT AWESOME-->
+    <!--<link rel="stylesheet" href="~/Template/vendor/font-awesome/css/font-awesome.css">-->
+    <!-- SIMPLE LINE ICONS-->   
+    <!--<link rel="stylesheet" href="~/Template/vendor/simple-line-icons/css/simple-line-icons.css">-->
+    <!-- ANIMATE.CSS-->         
+    <!--<link rel="stylesheet" href="~/Template/vendor/animate.css/animate.css">-->
+    <!-- WHIRL (spinners)-->    
+    <!--<link rel="stylesheet" href="~/Template/vendor/whirl/dist/whirl.css">-->
+    <!-- =============== PAGE VENDOR STYLES ===============-->
+    <!-- TAGS INPUT-->
+    <link rel="stylesheet" href="~/Template/vendor/bootstrap-tagsinput/dist/bootstrap-tagsinput.css">
+    <!-- SLIDER CTRL-->
+    <link rel="stylesheet" href="~/Template/vendor/bootstrap-slider/dist/css/bootstrap-slider.css">
+    <!-- CHOSEN-->
+    <link rel="stylesheet" href="~/Template/vendor/chosen-js/chosen.css">
+    <!-- DATETIMEPICKER-->
+    <link rel="stylesheet" href="~/Template/vendor/bootstrap-datepicker/dist/css/bootstrap-datepicker.css">
+    <!-- COLORPICKER-->
+    <link rel="stylesheet" href="~/Template/vendor/bootstrap-colorpicker/dist/css/bootstrap-colorpicker.css">
+    <!-- SELECT2-->
+    <link rel="stylesheet" href="~/Template/vendor/select2/dist/css/select2.css">
+    <link rel="stylesheet" href="~/Template/vendor/ttskch/select2-bootstrap4-theme/dist/select2-bootstrap4.css">
+    <!-- WYSIWYG-->
+    <link rel="stylesheet" href="~/Template/vendor/bootstrap-wysiwyg/css/style.css">
+    <!-- =============== BOOTSTRAP STYLES ===============-->
+    <link rel="stylesheet" href="~/Template/css/bootstrap.css" id="bscss">
+    <!-- =============== APP STYLES ===============-->
+    <link rel="stylesheet" href="~/Template/css/app.css" id="maincss">
+
+
+
+
+    @*Brigtness Css*@
+    @*<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>*@
+    <link href="~/css/customStyle.css" rel="stylesheet" />
 </head>
 <style>
+    
+   
+
+       
+
+   /* #range {
+        width: 100%;
+        -webkit-appearance: none;
+        background: #0a85ff;
+        height: 3px;
+        outline: none;
+    }
+
+        #range::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            width: 22px;
+            height: 22px;
+            background: #333;
+            border-radius: 50%;
+            cursor: pointer;
+        }*/
+
+
     .canvas-section {
         background-image: url('https://media.istockphoto.com/photos/empty-minimalist-room-with-gray-wall-on-background-picture-id1129813604?b=1&k=20&m=1129813604&s=170667a&w=0&h=nTa5JGo-SFath8TaWZ8Of_-QeW_H9i53-pPTP02ldE0=');
         background-size: cover;
@@ -64,8 +130,8 @@
     .right-panel {
         padding: 15px;
         background: #fff;
-        font-size: 18px;
-        font-weight: 600;
+        font-size: 14px;
+        font-weight: 500;
     }
 
     button.submit-btn.btn {
@@ -144,6 +210,42 @@
         margin-bottom: 6px;
         padding: 3px 6px;
     }
+    .spancounter {
+        font-size: 12px !important;
+        margin-top:-300px !important;
+    }
+    .plus{
+        margin-top:-3%;
+    }
+
+
+    [type='color'] {
+        appearance: none !important;
+        padding: 0 !important;
+        width: 50px !important;
+        height: 30px !important;
+        border: none !important;
+       
+    }
+
+        [type='color']::-webkit-color-swatch-wrapper {
+            padding: 0 !important;
+           
+        }
+
+        [type='color']::-webkit-color-swatch {
+            border: none !important;
+            ;
+        }
+
+    .color-picker-1 { 
+        padding:8px 10px !important;
+        border-radius: 6px !important;
+        border: 1px solid #ccc !important;
+        background: #f8f9f9 !important;
+    }
+    
+
     /*#color_picker:not(.appendedColorPicker){
         display:none !important
 
@@ -158,13 +260,18 @@
         <div class="col-md-9">
             <div class="canvas-area h-100">
                 @*<label>Step: <input type=range min=0 max=5 value=2></label><span>4</span><br>*@
+
                 <div class="canvas-section h-100 d-flex align-items-center justify-content-center">
-                    <canvas id="canvas" width=780 height=400></canvas>
+                    <div class="container">
+                        <canvas id="canvas" width=780 height=400></canvas>
+                    </div>
                 </div>
+
+
 
             </div>
         </div>
-        <div class="col-md-3 right-panel">
+        <div class="col-3 right-panel">
             <div class="image-setting-area">
                 <div id="accordion">
 
@@ -172,7 +279,8 @@
                         <div class="image-setting-items card-header">
                             <a class="setting-item" data-toggle="collapse" href="#collapseOne">
                                 <span>Search</span>
-                                <span>+</span>
+                                <span class="plus">+</span>
+
                             </a>
                         </div>
                         <div id="collapseOne" class="collapse" data-parent="#accordion">
@@ -208,21 +316,39 @@
                     <div class="card">
                         <div class="image-setting-items card-header">
                             <a class="setting-item" id="picker_launcher" data-toggle="collapse" href="#collapseTwo">
-                                <span>background</span>
-                                <span>+</span>
+                                <span>Background</span>
+                                <span class="plus">+</span>
                             </a>
                         </div>
                         <div id="collapseTwo" class="collapse" data-parent="#accordion">
                             <div class="card-body">
-                                <div class="">
-                                    @*<div class="mb-2 d-none">
-                                            <button class="button" onclick="Metro.getPlugin('#color-selector-1', 'color-selector').val('#aa00ff')">Set to Violet</button>
-                                            <button class="button" onclick="alert(Metro.getPlugin('#color-selector-1', 'color-selector').val())">Get color</button>
-                                        </div>*@
-                                    <div id="color-selector-1" data-role="color-selector"></div>
-                                    <input type="file" id="BackgroundImage" onchange="readURL(event)" />
-
+                                <div class="col-12">
+                                    <p class="mt-3">As a component:</p>
+                                    <div class="input-group demo-colorpicker">
+                                        <input class="form-control" type="text" value="#00AABB">
+                                        <div class="input-group-append input-group-addon">
+                                            <div class="input-group-text">
+                                                <i></i>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
+                                <div class="col-12">
+                                    <p class="mt-3">Inline mode:</p>
+                                    <div class="row">
+                                        <div class="col-6">
+                                            <div class="demo-colorpicker" id="demo_cont" data-container="#demo_cont" data-color="rgba(150,216,62,0.55)" data-inline="true"></div>
+                                        </div>
+                                        <div class="col-6">
+                                            <div class="demo-colorpicker" data-container="true" data-color="rgb(50,216,62)" data-inline="true"></div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <br />
+                                <div id="color-selector-1" data-role="color-selector"></div>
+                                <input type="file" id="BackgroundImage" onchange="readURL(event)" />
+
                             </div>
                         </div>
                     </div>
@@ -231,7 +357,7 @@
                         <div class="image-setting-items card-header">
                             <a class="setting-item" data-toggle="collapse" href="#collapseThree">
                                 <span>Measure</span>
-                                <span>+</span>
+                                <span class="plus">+</span>
                             </a>
                         </div>
                         <div id="collapseThree" class="collapse" data-parent="#accordion">
@@ -245,50 +371,125 @@
                         <div class="image-setting-items card-header">
                             <a class="setting-item" data-toggle="collapse" href="#collapseFour">
                                 <span>Lightning</span>
-                                <span>+</span>
+                                <span class="plus">+</span>
                             </a>
                         </div>
                         <div id="collapseFour" class="collapse" data-parent="#accordion">
+                            @*<div class="card-body">
+                                    <div class="row">
+                                        <div class="col-lg-3">
+                                            <button id="" class="btn btn-danger"><i class="fa fa-image"></i></button>
+                                            <label>Blure</label>
+                                        </div>
+                                        <div class="col-lg-3">
+                                            <button id="" class="btn btn-danger"><i class="fa fa-image"></i></button>
+                                            <label>GrayScal</label>
+                                        </div>
+                                        <div class="col-lg-3">
+                                            <button id="" class="btn btn-danger"><i class="fa fa-image"></i></button>
+                                            <label>GrayScal</label>
+                                        </div>
+                                        <div class="col-lg-3">
+                                            <button id="" class="btn btn-danger"><i class="fa fa-image"></i></button>
+                                            <label>GrayScal</label>
+                                        </div>
+                                    </div>
+                                </div>*@
                             <div class="card-body">
-                                <div class="row my-4 text-center">
-                                    <div class="col-md-3">
-                                        <div class="btn-group btn-group-sm">
-                                            <button class="filter-btn brightness-remove btn btn-info">-</button>
-                                            <button class="btn btn-secondary btn-disabled" disabled>Brightness</button>
-                                            <button class="filter-btn brightness-add btn btn-info">+</button>
+
+
+                                <form>
+                                    <div class="form-group">
+                                        <div class="row">
+                                            <div class="col-9">
+                                                <label>Brightness</label>
+                                                <input type="range" id="my-slider" min="0" max="200" value="100" oninput="slider()" onchange="applyFilter()" data-filter="brightness" data-scale="%">
+                                            </div>
+                                            <div class="col-3">
+
+                                                <div id="slider-value">0</div>
+                                            </div>
                                         </div>
-                                    </div>
-                                </div>
-                                <div class="row my-4 text-center">
-                                    <div class="col-md-3">
-                                        <div class="btn-group btn-group-sm">
-                                            <button class="filter-btn contrast-remove btn btn-info">-</button>
-                                            <button class="btn btn-secondary btn-disabled" disabled>Contrast</button>
-                                            <button class="filter-btn contrast-add btn btn-info">+</button>
+
+                                        <div class="row">
+                                            <div class="col-9">
+                                                <label>Contrast</label>
+                                                <input type="range" id="my-slider1" class="slider-value" min="0" max="200" value="100" oninput="slider1()" onchange="applyFilter()" data-filter="contrast" data-scale="%">
+                                            </div>
+                                            <div class="col-3">
+
+                                                <div id="slider-value1">0</div>
+                                            </div>
                                         </div>
-                                    </div>
-                                </div>
-                                <div class="row my-4 text-center">
-                                    <div class="col-md-3">
-                                        <div class="btn-group btn-group-sm">
-                                            <button class="filter-btn saturation-remove btn btn-info">-</button>
-                                            <button class="btn btn-secondary btn-disabled" disabled>Saturation</button>
-                                            <button class="filter-btn saturation-add btn btn-info">+</button>
+                                        <div class="row">
+                                            <div class="col-9">
+                                                <label>Saturate</label>
+                                                <input type="range" id="my-slider1" class="slider-value" min="0" max="200" value="100" oninput="slider1()" onchange="applyFilter()" data-filter="saturate" data-scale="%">
+                                            </div>
+                                            <div class="col-3">
+
+                                                <div id="slider-value1">0</div>
+                                            </div>
                                         </div>
-                                    </div>
-                                </div>
-                                <div class="row my-4 text-center">
-                                    <div class="col-md-3">
-                                        <div class="btn-group btn-group-sm">
-                                            <button class="filter-btn vibrance-remove btn btn-info">-</button>
-                                            <button class="btn btn-secondary btn-disabled" disabled>Vibrance</button>
-                                            <button class="filter-btn vibrance-add btn btn-info">+</button>
+                                        <div class="row">
+                                            <div class="col-9">
+                                                <label>Opacity</label>
+                                                <input type="range" id="my-slider1" class="slider-value" min="0" max="200" value="100" oninput="slider1()" onchange="applyFilter()" data-filter="opacity" data-scale="%">
+                                            </div>
+                                            <div class="col-3">
+                                                <div id="slider-value1">0</div>
+                                            </div>
                                         </div>
+
+                                        <!--<div class="row">
+                                        <div class="col-lg-8">
+                                            <input type="range" class="form-control-range" id="range" onInput="$('#rangeval').html($(this).val())" min="0" max="200" value="100" step="1" onchange="applyFilter()" data-filter="brightness" data-scale="%"><br>
+                                        </div>
+                                        <div class="col-lg-4">
+                                            <span id="rangeval" class="spancounter">0-->
+                                        <!-- Default value -->
+                                        <!--</span>
+                                            </div>
+                                        </div>
+                                        <label>Contrast</label>
+                                        <div class="row">
+                                            <div class="col-lg-8">
+                                                <input type="range" class="form-control-range" id="range" onInput="$('#rangeval2').html($(this).val())" min="0" max="200" value="100" step="1" onchange="applyFilter()" data-filter="contrast" data-scale="%"><br>
+                                            </div>
+                                            <div class="col-lg-4">
+                                                <span id="rangeval2" class="spancounter">0-->
+                                        <!-- Default value -->
+                                        <!--</span>
+                                            </div>
+                                        </div>
+                                        <label>Saturate</label>
+                                        <div class="row">
+                                            <div class="col-lg-8">
+                                                <input type="range" class="form-control-range" id="range" onInput="$('#rangeval3').html($(this).val())" min="0" max="200" value="100" step="1" onchange="applyFilter()" data-filter="saturate" data-scale="%"><br>
+                                            </div>
+                                            <div class="col-lg-4">
+                                                <span id="rangeval3" class="spancounter">0-->
+                                        <!-- Default value -->
+                                        <!--</span>
+                                            </div>
+                                        </div>
+                                        <label>Opacity</label>
+                                        <div class="row">
+                                            <div class="col-lg-8">
+                                                <input type="range" class="form-control-range" id="range" onInput="$('#rangeval4').html($(this).val())" min="0" max="100" value="50" step="1" onchange="applyFilter()" data-filter="opacity" data-scale="%"><br>
+                                            </div>
+                                            <div class="col-lg-4">
+                                                <span id="rangeval4" class="spancounter">0-->
+                                        <!-- Default value -->
+                                        <!--</span>
+                                            </div>
+                                        </div>-->
                                     </div>
-                                </div>
-                                <div class="row mt-5">
-                                    <div class="col-md-6">
-                                        <button id="revert-btn" class="btn btn-danger btn-block">Remove Filters</button>
+                                </form>
+
+                                <div class="row">
+                                    <div class="col-lg-12">
+                                        <button id="revert-btn" class="">Remove Filters</button>
                                     </div>
                                 </div>
                             </div>
@@ -298,7 +499,7 @@
                         <div class="image-setting-items card-header">
                             <a class="setting-item" data-toggle="collapse" href="#collapseFive">
                                 <span>Save</span>
-                                <span>+</span>
+                                <span class="plus">+</span>
                             </a>
                         </div>
                         <div id="collapseFive" class="collapse" data-parent="#accordion">
@@ -311,7 +512,7 @@
                         <div class="image-setting-items card-header">
                             <a class="setting-item" data-toggle="collapse" href="#collapseSix">
                                 <span>Favorite</span>
-                                <span>+</span>
+                                <span class="plus">+</span>
                             </a>
                         </div>
                         <div id="collapseSix" class="collapse" data-parent="#accordion">
@@ -347,7 +548,10 @@
         </div>
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/camanjs/4.1.2/caman.full.js"></script>
-    <script>
+
+    <script src="~/js/CustomJavaScript.js"></script>
+    <script type="text/javascript">
+
         function readURL(event) {
             var getImagePath = URL.createObjectURL(event.target.files[0]);
             $('.canvas-section').css('background-image', 'url(' + getImagePath + ')');
@@ -399,6 +603,22 @@
                 this.revert();
             });
         });
+
+        var image = document.querySelector('#canvas');
+        var filterControls = document.querySelectorAll('input[type=range]');
+        function applyFilter() {
+            var computedFilters = '';
+            filterControls.forEach(function (item, index) {
+                computedFilters += item.getAttribute('data-filter') + '(' + item.value + item.getAttribute('data-scale') + ') ';
+            });
+            image.style.filter = computedFilters;
+        };
+        //rangeInput = document.getElementById('range');
+        //container = document.getElementsByClassName('container')[0];
+
+        //rangeInput.addEventListener("change", function () {
+        //    container.style.filter = "brightness(" + rangeInput.value + "%)";
+        //});
 
         // Upload File
         //uploadFile[1].addEventListener("click", e => {
@@ -466,7 +686,26 @@
         });
 
 
+
+        //Get Value
+        document.querySelectorAll('input[type=color]').forEach(function (picker) {
+            //Target Point
+            var targetLabel = document.querySelector('label[for="' + picker.id + '"]'),
+                codeArea = document.createElement('span');
+
+            codeArea.innerHTML = picker.value;
+            targetLabel.appendChild(codeArea);
+
+            //Now AddEventListener
+            picker.addEventListener('change', function () {
+                codeArea.innerHTML = picker.value;
+                targetLabel.appendChild(codeArea);
+            });
+        });
     </script>
+
+
+  
 
 </body>
 </html>

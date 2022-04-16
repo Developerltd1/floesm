@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="bootstrap.css">
+</head>
+<body>
+  <form class="multi-range-field my-5 pb-5">
+    <input id="multi13" class="multi-range" type="range" />
+  </form>
+  
+  <!-- ID Example -->
+  <label for="ex">ID Example</label>
+  <input type="text" id="ex" class="form-control" disabled>
+  
+  <form class="multi-range-field my-5 pb-5">
+    <input id="multi14" class="multi-range" type="range" />
+  </form>
+  
+  <!-- Class example -->
+  <label for="exampleForm2">Class example</label>
+  <input type="text" id="exampleForm2" class="form-control ex1" disabled>
+  
+  <!-- Class example -->
+  <label for="exampleForm21">Class example</label>
+  <input type="text" id="exampleForm21" class="form-control ex1" disabled>
+  
+  <!-- Class example -->
+  <label for="exampleForm22">Class example</label>
+  <input type="text" id="exampleForm22" class="form-control ex1" disabled>
+ <link rel="stylesheet" href="js.js">\
+
+ <script type="text/javascript">
+   $('#multi13').mdbRange({
+  single: {
+    active: true,
+    counting: true,
+    countingTarget: '#ex'
+  }
+});
+
+$('#multi14').mdbRange({
+  single: {
+    active: true,
+    counting: true,
+    countingTarget: '.ex1'
+  }
+});
+ </script>
+</body>
+</html>

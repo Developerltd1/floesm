@@ -7563,32 +7563,33 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\AQIB\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\najeeb\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Application\\Web\\ASP.NET\\MVC\\BYAQIB\\floesm\\floesm_pro\\floesm_pro.csproj",
+      "projectUniqueName": "E:\\Web Development\\floesm\\floesm_pro\\floesm_pro.csproj",
       "projectName": "floesm_pro",
-      "projectPath": "D:\\Application\\Web\\ASP.NET\\MVC\\BYAQIB\\floesm\\floesm_pro\\floesm_pro.csproj",
-      "packagesPath": "C:\\Users\\AQIB\\.nuget\\packages\\",
-      "outputPath": "D:\\Application\\Web\\ASP.NET\\MVC\\BYAQIB\\floesm\\floesm_pro\\obj\\",
+      "projectPath": "E:\\Web Development\\floesm\\floesm_pro\\floesm_pro.csproj",
+      "packagesPath": "C:\\Users\\najeeb\\.nuget\\packages\\",
+      "outputPath": "E:\\Web Development\\floesm\\floesm_pro\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\AQIB\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\najeeb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.telerik.com/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
@@ -7657,7 +7658,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
